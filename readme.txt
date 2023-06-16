@@ -23,7 +23,7 @@ Prerequisite
 
 Route handling
 
-ถายใน route เราสามารถทำอะไรก็ได้ เช่น fetch data จาก database(mongodb, postgresql, mysql)
+ภายใน route เราสามารถทำอะไรก็ได้ เช่น fetch data จาก database(mongodb, postgresql, mysql)
 เราสามารถ load หน้าต่างๆ สามารถ return json data, เราสามารถเข้าถึง request & response  ได้เต็มรูปแบบ
 
 request & response object เป็นสิ่งสำคัญมาก
